@@ -4,7 +4,7 @@
 
  ## Features
 - Choose from four characters: Warrior, Mage, Archer, and Paladin.
-- Each class has special abilities that can be used in battle.
+- Each character has special abilities that can be used in battle.
 - Turn-based combat against an Evil Wizard.
 - Healing and stat display options to enhance gameplay.
 
