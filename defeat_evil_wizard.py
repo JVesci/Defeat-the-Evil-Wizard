@@ -46,7 +46,7 @@ class Mage(Character):
         print(f"{self.name} casts a powerful spell for {damage} damage!")
 
     def ice_spell(self, opponent):
-        '''Reduce the opponent's attack power by 5'''
+        '''Reduce the opponent's attack power by 2'''
         opponent.attack_power = max(5, opponent.attack_power - 2)
         print(f"{self.name} casts an ice spell to reduce {opponent.name}'s attack power by 2.")
 
